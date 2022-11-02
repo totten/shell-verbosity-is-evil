@@ -1,0 +1,17 @@
+{
+    "name": "lesser-evil/shell-verbosity-is-evil",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "LesserEvil\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tim Otten",
+            "email": "totten@civicrm.org"
+        }
+    ],
+    "require": {}
+}
